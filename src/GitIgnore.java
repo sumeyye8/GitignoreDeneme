@@ -5,6 +5,7 @@ public class GitIgnore {
         System.out.println("GİtIgnore Deneme Branch");
         System.out.println("GİtIgnore Deneme Master");
         System.out.println("GİtIgnore Deneme Master2");
+        System.out.println("GİtIgnore Deneme Branch 2");
 
     }
 }
